@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog/debt-simulator/page": "app/blog/debt-simulator/page.js",
+  "/blog/mastering-debt-settlement/page": "app/blog/mastering-debt-settlement/page.js"
+}
